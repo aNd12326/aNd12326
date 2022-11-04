@@ -3,7 +3,7 @@
 
 <h3 align="left">From a very young age I have been very passionate about computers and virtual technologies. I am a proactive person with the ability to work in a team and be goal-oriented, aspiring to be a competitive Developer in the sector, both in Back-End and Front-End.</h3>
 
-- 🌱 I’m currently learning **Typescript,NestJS**
+- 🌱 I’m currently learning **Typescript and NestJS**
 
 - 💬 Ask me about **React,NodeJS**
 
